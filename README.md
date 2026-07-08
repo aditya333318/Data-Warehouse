@@ -7,7 +7,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](<img width="1232" height="767" alt="Screenshot 2026-07-08 122838" src="https://github.com/user-attachments/assets/b3296de0-e9c7-4679-be5e-b6c340ccbd38" />
+[Data Architecture](<img width="1232" height="767" alt="Screenshot 2026-07-08 122838" src="https://github.com/user-attachments/assets/b3296de0-e9c7-4679-be5e-b6c340ccbd38" />
 )
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -71,8 +71,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
-
-For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
 ```
